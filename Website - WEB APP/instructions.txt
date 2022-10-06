@@ -1,0 +1,6 @@
+. if for class
+#is for id
+
+&nbsp; for spaces
+
+&#8203 for invisible single character
